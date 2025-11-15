@@ -8,9 +8,7 @@ export default function Footer() {
           <p className="text-gray-400 text-center">
             © {new Date().getFullYear()} M. Tamseel Asif Awan. All rights reserved.
           </p>
-          <p className="flex items-center gap-2 text-gray-400 text-sm">
-            Built with <Heart size={16} className="text-red-500 fill-current" /> using React & Tailwind CSS
-          </p>
+          
         </div>
       </div>
     </footer>
